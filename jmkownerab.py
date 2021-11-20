@@ -46,7 +46,7 @@ logo = """
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mEmmanuel
-\033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
+\033[1;96mYouTube \033[1;93m: \033[1;92mNigeria Hacker
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
 \033[1;91m======================================="""
@@ -66,7 +66,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
+\033[1;96mAuthor  \033[1;93m: \033[1;92mEmmanuel
 \033[1;96mYouTube \033[1;93m: \033[1;92mlovehacker
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
 \033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
